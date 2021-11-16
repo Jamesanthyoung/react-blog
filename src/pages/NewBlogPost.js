@@ -14,6 +14,7 @@ function NewBlogPostPage() {
     );
   }
 
+  
   return (
     <section>
       <h1>Add New Blog Post</h1>
