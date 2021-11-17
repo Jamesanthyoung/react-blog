@@ -1,17 +1,16 @@
 .header {
+    border-radius: 25px;
     width: 100%;
-    height: 5rem;
+    height: 7rem;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #77002e;
+    background-color: #b5ffba;
     padding: 0 10%;
   }
   
   .logo {
-    font-size: 2rem;
-    color: white;
-    font-weight: bold;
+    height: 7rem;
   }
   
   .header ul {
@@ -29,7 +28,7 @@
   .header a {
     text-decoration: none;
     font-size: 1.5rem;
-    color: #fcb8d2;
+    color: #0c9415 ;
   }
   
   .header a:hover,
@@ -39,7 +38,7 @@
   }
   
   .badge {
-    background-color: #cc2062;
+    background-color: #69f072;
     color: white;
     border-radius: 12px;
     padding: 0 1rem;
